@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "titulo": "Bombón Chocolate Negro Relleno con Mousse",
+        "imagen": "./css/img/darkchocolate.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "2",
+        "titulo": "Cuadraditos de Crema Marroc",
+        "imagen": "./css/img/bocaditosdemousse.jpg",
+        "precio": 950
+    },
+    {
+        "id": "3",
+        "titulo": "Alfajor de Dulce de Leche y Frambuesa",
+        "imagen": "./css/img/alfajorframbuesayddl.jpg",
+        "precio": 600
+    },
+    {
+        "id": "4",
+        "titulo": "Cuadraditos de Chocolate y Frambuesas",
+        "imagen": "./css/img/frambuesas.jpg",
+        "precio": 750
+    },
+    {
+        "id": "5",
+        "titulo": "Bombón Relleno de Mousse de Chocolate Negro y Chocolate Blanco",
+        "imagen": "./css/img/moussednw.jpg",
+        "precio": 2000
+    },
+    {
+        "id": "6",
+        "titulo": "Cuadraditos de Crema de Chocolate y Palta",
+        "imagen": "./css/img/palta.jpg",
+        "precio": 800
+    },
+    {
+        "id": "7",
+        "titulo": "Bombón Relleno con Crema de Pistaccio",
+        "imagen": "./css/img/pistaccio.jpg",
+        "precio": 2500
+    },
+    {
+        "id": "8",
+        "titulo": "Bombón Chocolate Blanco",
+        "imagen": "./css/img/whitechocolate.jpg",
+        "precio": 1000
+    }
+]
